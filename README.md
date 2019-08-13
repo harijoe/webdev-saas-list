@@ -31,6 +31,10 @@ __Requirements__ : Every service listed here should :
 
 * [Sendgrid](https://sendgrid.com)
 
+## Monitoring
+
+* [Sentry](https://sentry.io)
+
 ## Payments
 
 * [Stripe](https://stripe.com)
