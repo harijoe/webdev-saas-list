@@ -1,7 +1,7 @@
 # Webdev Saas List
 _List of web services developers should consider before coding_
 
-__Requirements__ Every service listed here should :
+__Requirements__ : Every service listed here should :
 
 * provide a set of __business__ features — i.e. not only technical such as a cloud provider
 * offer a generous __free__ or pay-as-you-go pricing tier
